@@ -11,7 +11,7 @@
     text-decoration: none;
     display: flex;
     justify-content: space-evenly;
-    background-color: rgba(0, 0, 0, 0.76);
+    background: linear-gradient(0deg, #00000030 10%, #0000006d 100%);
     position: sticky;
     top: 0;
     
